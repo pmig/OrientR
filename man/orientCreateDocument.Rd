@@ -6,4 +6,3 @@
 \usage{
 orientCreateDocument(orient, database, content)
 }
-

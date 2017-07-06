@@ -17,10 +17,9 @@ and 5 is your recordPosition}
 \description{
 \code{orientGetDocumentByClass} retrieves a document form orient
 }
-\author{
-Mohamed Karim Bouaziz \email{mohamed.karim.bouaziz@gmail.com}
-}
 \seealso{
 \code{\link{orientConnect}}, \code{\link{orientDataBases}}, \code{\link{orientDataBaseDetail}}
 }
-
+\author{
+Mohamed Karim Bouaziz \email{mohamed.karim.bouaziz@gmail.com}
+}

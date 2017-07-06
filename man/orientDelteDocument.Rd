@@ -6,4 +6,3 @@
 \usage{
 orientDeleteDocument(orient, database, recordId)
 }
-

@@ -6,4 +6,3 @@
 \usage{
 orientUpdateDocument(orient, database, recordId = NULL, content)
 }
-

@@ -12,10 +12,9 @@ orientDataBases(orient)
 \description{
 \code{orientDataBases} Extract names of all OrientDB DataBases.
 }
-\author{
-Mohamed Karim Bouaziz \email{mohamed.karim.bouaziz@gmail.com}
-}
 \seealso{
 \code{\link{orientConnect}}, \code{\link{orientDataBaseDetail}}
 }
-
+\author{
+Mohamed Karim Bouaziz \email{mohamed.karim.bouaziz@gmail.com}
+}

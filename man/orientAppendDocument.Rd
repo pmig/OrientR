@@ -6,4 +6,3 @@
 \usage{
 orientAppendDocument(orient, database, recordId = NULL, content)
 }
-

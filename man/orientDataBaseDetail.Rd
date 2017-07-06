@@ -12,10 +12,9 @@ orientDataBaseDetail(orient, database, ...)
 \description{
 \code{orientDataBaseDetail} Execute a SQL query against the OrientDB database.
 }
-\author{
-Mohamed Karim Bouaziz \email{mohamed.karim.bouaziz@gmail.com}
-}
 \seealso{
 \code{\link{orientDataBases}}, \code{\link{orientConnect}}
 }
-
+\author{
+Mohamed Karim Bouaziz \email{mohamed.karim.bouaziz@gmail.com}
+}

@@ -22,10 +22,9 @@ orientSql(orient, database, query, batch = -1, conv.dates = TRUE,
 \description{
 \code{orientSql} Execute a SQL query against the OrientDB database.
 }
-\author{
-Mohamed Karim Bouaziz \email{mohamed.karim.bouaziz@gmail.com}
-}
 \seealso{
 \code{\link{orientConnect}}, \code{\link{orientDataBases}}, \code{\link{orientDataBaseDetail}}
 }
-
+\author{
+Mohamed Karim Bouaziz \email{mohamed.karim.bouaziz@gmail.com}
+}

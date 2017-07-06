@@ -6,4 +6,3 @@
 \usage{
 orientGetDocument(orient, database, recordId)
 }
-

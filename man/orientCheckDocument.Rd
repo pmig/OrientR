@@ -6,4 +6,3 @@
 \usage{
 orientCheckDocument(orient, database, recordId)
 }
-
