@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: OrientR\nType: Package\nTitle: R Wrapper for OrientDB's REST API\nVersion: 0.3.1\nDate: 2016-03-10\nAuthor: Mahmood S. Zargar & Mohamed Karim Bouaziz & Philip Miglinci\nMaintainer: Mohamed Karim Bouaziz <mohamed.karim.bouaziz@gmail.com>\nDescription: This package provides a bare-bones interface to OrientDB's REST\n    API.\nLicense: Apache-2.0\nEncoding: UTF-8\nLazyData: true\nRoxygenNote: 6.0.1\nImports:\n    RCurl,\n    jsonlite,\n    tidyr,\n    lubridate,\n    magrittr\n\n",
+    "created" : 1499328512719.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1769693225",
+    "id" : "1768F731",
+    "lastKnownWriteTime" : 1499328651,
+    "last_content_update" : 1499328651848,
+    "path" : "~/Documents/OrientR/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}
